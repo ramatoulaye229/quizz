@@ -1,0 +1,50 @@
+.bg-colorA{
+    background-color: #51bfd0;
+}
+.bg-colorA-opac15{
+    background-color: #51bfd0;
+    opacity: 15%;
+}
+.bg-colorB{
+    background-color: #042425;
+}
+.bg-colorC{
+    background-color: #3addd6;
+}
+.bg-colorD{
+    background-color: #f2f2f2;
+}
+.bg-gradient{
+    background-image: linear-gradient(to top, #51bfd0, white);
+}
+#chk_0_1 {
+    border-color: #3addd6;
+  }
+  .mt-2 text-white btn-lg{
+    background-color: #3addd6;
+
+  }
+
+  .check{
+      border: solid 1px #3bc9db;
+  }
+
+.score1
+{
+ border-bottom: 4px solid magenta;
+}
+.score2
+{
+border-bottom: 4px solid lime;
+}
+.score3
+{
+ border-bottom: 4px solid red;
+}
+.score4
+{
+ border-bottom: 4px solid paleturquoise;
+}
+#text{
+    margin-left:200px;
+}
